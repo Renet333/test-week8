@@ -18,12 +18,12 @@ in your html:
 in your javascript:
 $("#hideMe").hide();
 
-[[answer]] for a class you need you use a . and the names are different
+[[answer]] for a class you need you use a . and the names are different the pound sigh is for ids
 
 If you have a FOLDER named lib and a FILE named app.js, why won't this link to your javascript work?
 <script src="app.js"></script>
 
-[[answer]] because you are not specifying that the FILE app.js is in the FOLDER lib 
+[[answer]] because you are not specifying that the FILE app.js is in the FOLDER lib lib/app.js
 
 What can you tell me about this: <input type="text"/> what is it? what will we be using them for?
 
